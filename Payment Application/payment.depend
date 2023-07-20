@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1680380190 source:c:\kareem\my data\courses\sprints\payment\payment\card.c
+	"Card.h"
+
+1680369483 c:\kareem\my data\courses\sprints\payment\payment\card.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1680383784 source:c:\kareem\my data\courses\sprints\payment\payment\application.c
+	"Application.h"
+
+1680332174 c:\kareem\my data\courses\sprints\payment\payment\application.h
+	"Server.h"
+
+1680333281 c:\kareem\my data\courses\sprints\payment\payment\server.h
+	<stdio.h>
+	<stdlib.h>
+	"Terminal.h"
+
+1680332154 c:\kareem\my data\courses\sprints\payment\payment\terminal.h
+	"Card.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1680376217 source:c:\kareem\my data\courses\sprints\payment\payment\server.c
+	"database.h"
+
+1680381602 c:\kareem\my data\courses\sprints\payment\payment\database.h
+	"Server.h"
+
+1680376799 source:c:\kareem\my data\courses\sprints\payment\payment\terminal.c
+	"Terminal.h"
+
+1680373239 source:c:\kareem\my data\courses\sprints\payment\payment\main.c
+	"Application.h"
+
+1680683109 source:e:\pay-app-main\application.c
+	"Application.h"
+
+1680683109 e:\pay-app-main\application.h
+	"Server.h"
+
+1680683109 e:\pay-app-main\server.h
+	<stdio.h>
+	<stdlib.h>
+	"Terminal.h"
+
+1680683109 e:\pay-app-main\terminal.h
+	"Card.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1680683109 e:\pay-app-main\card.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1680683109 source:e:\pay-app-main\card.c
+	"Card.h"
+
+1680683109 source:e:\pay-app-main\main.c
+	"Application.h"
+
+1680683109 source:e:\pay-app-main\server.c
+	"database.h"
+
+1680683109 e:\pay-app-main\database.h
+	"Server.h"
+
+1680683109 source:e:\pay-app-main\terminal.c
+	"Terminal.h"
+
