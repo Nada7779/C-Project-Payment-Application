@@ -1,6 +1,6 @@
 # Payment Application
 ## Project Description:
-this is the final team project for the C programming module in Sprints Automotive Bootcamp.<br />
+this is the final project for the C programming module in Sprints Automotive Bootcamp.<br />
 This Delivery takes 2 working days.<br />
 ## Project Details:
 This is a payment application where the user enters his payment Card data: (Name-PAN number-Expiration date-Date of the transcation) and amount of transcation he wants.<br />
